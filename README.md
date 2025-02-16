@@ -55,12 +55,6 @@
   <a href="https://github.com/ZVex-Dev/ZVex-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZVex-Dev&repo=ZVex-AI&theme=tokyonight" alt="ZVex AI" />
   </a>
-  <a href="https://github.com/ZVex-Dev/TikTok-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZVex-Dev&repo=TikTok-Downloader&theme=tokyonight" alt="TikTok Downloader" />
-  </a>
-  <a href="https://github.com/ZVex-Dev/Awesome-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZVex-Dev&repo=Awesome-Tools&theme=tokyonight" alt="Awesome Tools" />
-  </a>
 </p>
 
 ---
@@ -69,7 +63,7 @@
 
 Jika Anda ingin mendukung saya, bisa melalui:  
 
-[![Saweria](https://img.shields.io/badge/Saweria-F79D00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/ZVexDev)
+[![Saweria](https://img.shields.io/badge/Saweria-F79D00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/ZVexai)
 
 ---
 
